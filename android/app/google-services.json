@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369877433085",
+    "project_id": "bearchat-a727c",
+    "storage_bucket": "bearchat-a727c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369877433085:android:9943203bcb1c5d5eb11c94",
+        "android_client_info": {
+          "package_name": "com.hieubui.bear_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369877433085-6audn814rj4ftgd30ht7a97gihn0c1np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC2jTR9nlXiV6_E-8rsDXpeoXgc0LscgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369877433085-6audn814rj4ftgd30ht7a97gihn0c1np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
